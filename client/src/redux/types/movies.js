@@ -1,0 +1,3 @@
+export const GET_MOVIES_SUCCESS = "GET_MOVIES_SUCCESS";
+export const GET_MOVIES_FAIL = "GET_MOVIES_FAIL";
+export const LOADING = "LOADING";
